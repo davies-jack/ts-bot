@@ -2,7 +2,7 @@
 To use TSBOT, you need to have Python 2.7 installed, and using PIP, install Selenium.
 You also need to have Google Chrome webdriver installed, this can be found in a google search.
 
-In your command line, type `py tsbot.py USERNAME PASSWORD MELT`
+In your command line, type `py tsbot.py USERNAME PASSWORD LOOPS MELT`
 
 If you type "melt", the script will go to the melt page and begin to melt your more valuable cars. Do not use this if you have exclusive cars, and you do not want them to be melted, do not type "melt"
 

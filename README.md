@@ -13,3 +13,4 @@ This bot automatically commits crimes, gtas and melts cars. It also knows when y
 - Printing messages when on command line
 - Commiting only avaliable crimes
 - Inviting a selected list of users to Organised Crimes
+- OOP

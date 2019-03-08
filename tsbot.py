@@ -134,7 +134,7 @@ for i in range(int(sys.argv[3])):
                 else:
                     print "Melt car button not found! Skipping"
             else:
-                print "Melt is not avaliable! Skipping"
+                print "Melt is not avaliable! Timeleft is " + getTimeLeftOnMelt.text
 
             print "Waiting 45 seconds"
             time.sleep(45)

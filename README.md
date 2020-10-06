@@ -1,3 +1,5 @@
+**This project was created for Server 4 on Tough Society, meaning it is now outdated. Feel free to fork and edit!**
+
 # Installation
 To use TSBOT, you need to have Python 2.7 installed, and using PIP, install Selenium.
 You also need to have Google Chrome webdriver installed, this can be found in a google search.

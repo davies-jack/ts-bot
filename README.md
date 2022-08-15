@@ -1,4 +1,4 @@
-**This project was created for Server 4 on Tough Society, meaning it is now outdated. Feel free to fork and edit!**
+# This project was created for Server 4 on Tough Society, meaning it is now outdated. Feel free to fork and edit!
 
 # Installation
 To use TSBOT, you need to have Python 2.7 installed, and using PIP, install Selenium.
@@ -10,9 +10,3 @@ If you type "melt", the script will go to the melt page and begin to melt your m
 
 # Usage
 This bot automatically commits crimes, gtas and melts cars. It also knows when you are in jail and waits until the timer is up before continuing the script. When a captcha code comes up, type in the code seen on your browser to the command line for it to carry on the script.
-
-## Working on
-- Printing messages when on command line
-- Commiting only avaliable crimes
-- Inviting a selected list of users to Organised Crimes
-- OOP
